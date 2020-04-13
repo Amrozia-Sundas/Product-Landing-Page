@@ -76,4 +76,13 @@
             display: flex;
             justify-content: center;
             text-align: center;
-        
+        }
+            .product-discription{
+                background-color:gray;
+                margin:20px;
+                color: white;
+            
+            }
+            .product-submit{
+                background-color: black;
+            }
