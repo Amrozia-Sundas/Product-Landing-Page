@@ -63,3 +63,12 @@
     h3{
         background-color: black;
     }
+    #video{
+        display:block;
+        margin:auto;
+        padding: 5px;
+        margin-top: 20px;
+        margin-bottom: 100px;
+        align-content: center;
+        margin-left: 320px;
+        }
