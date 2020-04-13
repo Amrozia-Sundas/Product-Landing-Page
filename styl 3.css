@@ -24,3 +24,18 @@
     .nav-links:hover{
         background-color: blue;
     }
+    h1{
+        text-align: center;
+    }
+    #Email{
+    display:block;
+    margin:auto;
+    padding: 8px;
+    border-radius: 6px;
+    border:none;
+    width: 230px;
+    background-color:black;
+    margin-top: 20px;
+    color: white;
+    
+    }
