@@ -5,3 +5,22 @@
     background-color:white;
     text-align: center;
     }
+    #nav-bar{
+        overflow: hidden;
+    text-align: center;
+    
+        width: 100%;
+        top:57px;
+    }
+    .nav-links{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+    padding: 15px 40px;
+    float: left;
+    transition: background .5s ease;
+    }
+    .nav-links:hover{
+        background-color: blue;
+    }
