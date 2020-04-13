@@ -72,3 +72,8 @@
         align-content: center;
         margin-left: 320px;
         }
+        .flex-container{
+            display: flex;
+            justify-content: center;
+            text-align: center;
+        
